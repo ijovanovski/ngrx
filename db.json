@@ -3,6 +3,18 @@
     {
       "id": 1,
       "name": "Diet Coke"
+    },
+    {
+      "id": "28184e87-8ee5-4074-820b-3c9078201ede",
+      "name": "store"
+    },
+    {
+      "id": "2b98ec56-8214-47ad-9a99-588c2bd0c0de",
+      "name": "goce"
+    },
+    {
+      "id": "3f63ae0a-28f3-4bea-be79-dadd0d2102e6",
+      "name": "promet"
     }
   ]
 }
