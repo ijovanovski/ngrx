@@ -13,7 +13,6 @@ import { AddItemAction, DeleteItemAction, LoadShoppingAction } from './store/act
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit {
-  
   shoppingItems: Observable<Array<ShoppingItem>>;
   loading$: Observable<Boolean>;
   error$: Observable<Error>
